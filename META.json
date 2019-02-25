@@ -52,6 +52,7 @@
       },
       "test" : {
          "requires" : {
+            "Class::Accessor::Fast" : "0",
             "Test::Exception" : "0",
             "Test::Simple" : "0.94"
          }
@@ -72,7 +73,8 @@
    "version" : "0.05",
    "x_contributors" : [
       "Aran Deltac <aran@ziprecruiter.com>",
-      "Graham Knop <haarg@haarg.org>"
+      "Graham Knop <haarg@haarg.org>",
+      "Mohammad S Anwar <mohammad.anwar@yahoo.com>"
    ],
    "x_serialization_backend" : "JSON::PP version 2.97001",
    "x_static_install" : 1

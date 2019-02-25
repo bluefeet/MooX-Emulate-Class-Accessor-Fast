@@ -324,24 +324,19 @@ __END__
 L<Moo>, L<Class::Accessor>, L<Class::Accessor::Fast>,
 L<MooseX::Emulate::Class::Accessor::Fast>
 
-=head1 AUTHOR
+=head1 AUTHORS
 
 Aran Clary Deltac <bluefeet@gmail.com>
 
-Original code, tests, and documentation taken from
-L<MooseX::Emulate::Class::Accessor::Fast>.  Thanks!
-
-=head1 CONTRIBUTORS
-
-=over
-
-=item *
-
 Graham Knop <haarg@haarg.org>
 
-=back
+Mohammad S Anwar <mohammad.anwar@yahoo.com>
+
+Original code, tests, and documentation taken from
+L<MooseX::Emulate::Class::Accessor::Fast>.  Thanks!
 
 =head1 LICENSE
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
+
