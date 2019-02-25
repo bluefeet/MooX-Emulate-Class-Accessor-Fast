@@ -2,6 +2,8 @@ Revision history for Perl extension MooX-Emulate-Class-Accessor-Fast.
 
 {{$NEXT}}
 
+0.06 2019-02-25T06:34:35Z
+
   - Add missing test prereq Class::Accessor::Fast. (manwar)
 
 0.05 2019-02-20T22:49:01Z
