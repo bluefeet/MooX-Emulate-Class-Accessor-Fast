@@ -1,1 +1,4 @@
 name = "MooX-Emulate-Class-Accessor-Fast"
+authority="cpan:BLUEFEET"
+markdown_maker = "Pod::Markdown::Github"
+license = "perl_5"

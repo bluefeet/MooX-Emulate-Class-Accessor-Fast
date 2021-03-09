@@ -326,11 +326,9 @@ L<MooseX::Emulate::Class::Accessor::Fast>
 
 =head1 AUTHORS
 
-Aran Clary Deltac <bluefeet@gmail.com>
-
-Graham Knop <haarg@haarg.org>
-
-Mohammad S Anwar <mohammad.anwar@yahoo.com>
+  Aran Clary Deltac <bluefeet@gmail.com>
+  Graham Knop <haarg@haarg.org>
+  Mohammad S Anwar <mohammad.anwar@yahoo.com>
 
 Original code, tests, and documentation taken from
 L<MooseX::Emulate::Class::Accessor::Fast>.  Thanks!
@@ -339,4 +337,6 @@ L<MooseX::Emulate::Class::Accessor::Fast>.  Thanks!
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
+
+=cut
 
